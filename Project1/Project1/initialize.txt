@@ -1,0 +1,57 @@
+touch .autofsck.
+touch .autorelabel.
+touch .bash_history.
+mkdir bin.
+mkdir boot.
+mkdir dev.
+mkdir etc.
+cd etc.
+touch passwd.
+mkdir skel.
+cd skel.
+mkdir test.
+mkdir test2.
+cd /.
+mkdir home.
+mkdir lib.
+mkdir lib64.
+mkdir lost+found.
+chmod 700 lost+found.
+mkdir media.
+mkdir misc.
+mkdir mnt.
+mkdir proc.
+mkdir sbin.
+cd home.
+mkdir test3.
+cd test3.
+mkdir test4.
+cd /.
+mkdir root.
+cd root.
+mkdir Desktop.
+touch .ICEauthority.
+mkdir .Trash.
+touch .Xauthority.
+touch anaconda-ks.cfg.
+chmod 600 anaconda-ks.cfg.
+mkdir test.
+chmod 701 test.
+cd test.
+mkdir test2.
+cd ...
+touch .bash_profile.
+touch .bash_history.
+touch install.log.
+touch install.log.syslog.
+mkdir Linux.
+useradd test.
+useradd user1.
+useradd user2.
+useradd user3.
+cd /home.
+chmod 701 test.
+chmod 703 user1.
+chmod 705 user2.
+chmod 707 user3.
+cd ....

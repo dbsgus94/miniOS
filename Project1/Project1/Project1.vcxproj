@@ -126,6 +126,7 @@
     <ClInclude Include="..\..\..\..\..\Desktop\쉅\운체\운체 2\운체 플젱ㄴ르ㅜ머ㅜㅏㅎㅁ\10조 프로젝트\directory.h" />
     <ClInclude Include="..\..\..\..\..\Desktop\쉅\운체\운체 2\운체 플젱ㄴ르ㅜ머ㅜㅏㅎㅁ\10조 프로젝트\header.h" />
     <ClInclude Include="..\..\..\..\..\Desktop\쉅\운체\운체 2\운체 플젱ㄴ르ㅜ머ㅜㅏㅎㅁ\10조 프로젝트\user.h" />
+    <ClInclude Include="resource.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
